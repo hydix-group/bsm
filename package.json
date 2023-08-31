@@ -1,0 +1,19 @@
+{
+  "name": "@hydix-group/bsm",
+  "version": "0.0.1",
+  "description": "BlockSandbox Mod Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blocksandbox",
+    "sandbox",
+    "game"
+  ],
+  "author": "pazzazzo",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
